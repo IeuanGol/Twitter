@@ -1,0 +1,13 @@
+{
+	"token" : "token",
+	"prefix" : "prefix",
+	"whitelist" : [
+		"userID"
+	],
+	"twitter" : {
+	    "consumer_key" : "app consumer key",
+ 	    "consumer_secret" : "app consumer secret",
+ 	    "access_token_key" : "app access token key",
+ 	    "access_token_secret" : "app access token secret"	
+	}
+}
