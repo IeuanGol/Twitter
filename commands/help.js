@@ -9,7 +9,7 @@ module.exports.run = async (client, message, args) => {
 			.addField("Source", "[GitHub](https://github.com/Doh/Twitter)", true)
 			.addField("Support", "[Discord](https://discord.gg/dt3DQsE)", true)
 			.setColor(0x7289da)
-			.setFooter("Twitter is an open source projects by Doh.")
+			.setFooter("Twitter is an open source project by Doh.")
 		});
 	} else {
 		if (client.commands.has(args[0])) {
